@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rL2Loy3r+NUVHf4KhAH01t50ejDIE7fKEwieR9n2+nc=",
+  "Source": "RefreshToken",
+  "BasePath": "_content/RefreshToken",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
